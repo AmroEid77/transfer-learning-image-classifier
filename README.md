@@ -1,6 +1,6 @@
 # Transfer Learning Image Classifier 🧠📷
 
-This project demonstrates the use of **transfer learning** with popular pre-trained models (such as MobileNet, VGG16, or ResNet) for image classification tasks. Built in Python using TensorFlow and Keras within a Jupyter Notebook.
+This project demonstrates the use of **transfer learning** with popular pre-trained models (such as MobileNet, ResNet) for image classification tasks. Built in Python using TensorFlow and Keras within a Jupyter Notebook.
 
 ## 📁 Project Structure
 
